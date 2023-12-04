@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "badboys420.aternos.me",
+    "port": 36006,
     "version": "1.19.3"
   },
 
